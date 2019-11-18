@@ -1,4 +1,5 @@
 # 2019-STATS-597-Project
-Predicting functional status of hand pumps of Tanzania.
+# Graduate data mining course 
+Predicting the functional status of hand pumps in Tanzania.
 
 Currently contains code for data exploration & cleaning.
